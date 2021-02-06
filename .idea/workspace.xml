@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff59048c-e286-482b-a255-d7331fa976ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/imgur-clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/statistic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/add-new-post-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/arrow-fat-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/arrow-scroll-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/camera-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/comments-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dots-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/download-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/dropdown-triangle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/embed-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/eye-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery-add-to-favorite-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery-downvote-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/gallery-upvote-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/google-glass-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/information-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/photoes-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post-comment-upvote.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post-comments-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/post-nex-post-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/puppy-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/share-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/telescope-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/telescope.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/upload-file-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthContainers/OAuthPanel/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthContainers/Signin/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthContainers/Signup/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthContainers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/AuthContainers/styles/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Button/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CardHome/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CardHome/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/DNDPopup/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/DNDPopup/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Grid/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Grid/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HeaderAuthControl/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HeaderLogo/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HeaderLogo/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HeaderSearchControl/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/HeaderSearchControl/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NewPostBtn/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NewPostBtn/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryAside/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryControl/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryControl/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/AuthorAndMenu/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/AuthorAndMenu/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/Comment/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/Comment/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/CommentFrom/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/CommentFrom/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/CommentsList/CommentsSkeleton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/CommentsList/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/CommentsList/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/Gallery/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/Gallery/style.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/TitleWithNav/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/TitleWithNav/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostGalleryMainInfo/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostPageWrapper/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/PostPageWrapper/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ScrollToTopBtn/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ScrollToTopBtn/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SnowFall/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SnowFall/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Hooks/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Hooks/useApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Hooks/useDelay.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Hooks/useOutsideClick.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Hooks/useTranslateHeader.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/isEmpty.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/helpers/uuidGen.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/hello.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/post/[id].tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/signin/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/signup/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/upload/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/proxima/proxima-nova-bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/proxima/proxima-nova-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/proxima/proxima-nova-xbold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/fading-section-break.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/squiggle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/animation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/global.style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/svg.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GraphQL File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="1lpwe4flPaqEwjB6mVDu08S2Opr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.next/cache/next-babel-loader/a8348c8f90ded604dd9e0b2651c27905.json&#10;/Users/tetrafour/Documents/imgur-clone/node_modules/mobx-react-lite/dist/index.d.ts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/components/PostGalleryMainInfo/AuthorAndMenu" />
+      <recent name="$PROJECT_DIR$/lib/Hooks" />
+      <recent name="$PROJECT_DIR$/components/AuthForms" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff59048c-e286-482b-a255-d7331fa976ab" name="Default Changelist" comment="" />
+      <created>1608307433058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608307433058</updated>
+      <workItem from="1608307434210" duration="756000" />
+      <workItem from="1608308236273" duration="3746000" />
+      <workItem from="1608332234386" duration="4668000" />
+      <workItem from="1608339913557" duration="7158000" />
+      <workItem from="1608944427236" duration="61840000" />
+      <workItem from="1610764548992" duration="251000" />
+      <workItem from="1610922256805" duration="2594000" />
+      <workItem from="1610934108009" duration="27743000" />
+      <workItem from="1611350831226" duration="22066000" />
+      <workItem from="1612390497260" duration="9972000" />
+      <workItem from="1612484366679" duration="46000" />
+      <workItem from="1612484446865" duration="4144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/backend" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
